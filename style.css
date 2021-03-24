@@ -161,7 +161,7 @@ html {
 	transform: translate(-50%,-50%);
 	top: 0;
 	width: 2rem;
-	height: 2rem
+	height: auto
 }
 
 .account img:last-of-type {
