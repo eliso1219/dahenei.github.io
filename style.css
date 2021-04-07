@@ -85,13 +85,7 @@ html {
 	align-items: center
 }
 
-.home header img:first-of-type {
-	width: 5rem;
-    height: auto;
-    margin-bottom: .5625rem;
-}
-
-.home header img:last-of-type {
+.home header img {
 	max-width: 100%
 }
 
