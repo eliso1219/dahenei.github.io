@@ -147,7 +147,7 @@ html {
 	top: 20%
 }
 
-.account img:last-of-type {
+.account img {
 	position: absolute;
 	width: 42%;
 	height: auto;
