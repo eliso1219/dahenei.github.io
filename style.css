@@ -91,10 +91,10 @@ html {
 
 .home section {
 	width: 19.6875rem;
-    height: 16.5625rem;
-    border: .0625rem solid #e6e6e6;
-    border-radius: .375rem;
-    position: relative;
+	height: 16.5625rem;
+	border: .0625rem solid #e6e6e6;
+	border-radius: .375rem;
+	position: relative;
 }
 
 .home section h2,.home section h3 {
@@ -112,10 +112,10 @@ html {
 
 .home section h3 {
 	color: grey;
-    font-size: .875rem;
-    line-height: 1.25rem;
-    top: 26%;
-    padding: 0 1.25rem;
+	font-size: .875rem;
+	line-height: 1.25rem;
+	top: 26%;
+	padding: 0 1.25rem;
 }
 
 .account {
@@ -136,7 +136,7 @@ html {
 .account h1 {
 	color: #000;
 	font-size: 1rem;
-	top: 14%
+	top: 10%
 }
 
 .account h3 {
@@ -144,25 +144,14 @@ html {
 	color: grey;
 	font-size: .875rem;
 	line-height: 1.25rem;
-	top: 26%
-}
-
-.account img:first-of-type {
-	position: absolute;
-	left: 50%;
-	-webkit-transform: translate(-50%,-50%);
-	-ms-transform: translate(-50%,-50%);
-	transform: translate(-50%,-50%);
-	top: 0;
-	width: 2rem;
-	height: auto
+	top: 20%
 }
 
 .account img:last-of-type {
 	position: absolute;
 	width: 42%;
 	height: auto;
-	bottom: 5%;
+	bottom: 10%;
 	-webkit-transform: translate(-50%);
 	-ms-transform: translate(-50%);
 	transform: translate(-50%);
